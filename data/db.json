@@ -1,0 +1,74 @@
+{
+  "daftar": [
+    {
+      "id": 1,
+      "nama_barang": "Xiaomi Mi TV Stick Full HD Dongle Android 9.0 Smart Stik TV Android",
+      "kategori": "Elektronik",
+      "stock": 1,
+      "harga_perolehan": 499000
+    },
+    {
+      "id": 2,
+      "nama_barang": "Tineco Pure One MINI S4 Cordless Hand Vacuum Cleaner Portable Mobil",
+      "kategori": "Elektronik",
+      "stock": 1,
+      "harga_perolehan": 2500
+    },
+    {
+      "id": 3,
+      "nama_barang": "Olike Earphone In Ear Headset Handsfreee Audio HD 3.5mm Plug Y1-K3",
+      "kategori": "Elektronik",
+      "stock": "18",
+      "harga_perolehan": "12000"
+    },
+    {
+      "id": 4,
+      "nama_barang": "Earphone In Ear Headset Handsfreee Audio HD 3.5mm Plug Y1-K3",
+      "kategori": "Elektronik",
+      "stock": "18",
+      "harga_perolehan": "120003"
+    },
+    {
+      "id": 5,
+      "nama_barang": " Amplop Putih B'gain Ukuran 104 95x152 Mm Peel & Seal / BGAIN ",
+      "kategori": "Alat tulis kantor",
+      "stock": "20",
+      "harga_perolehan": "8500"
+    },
+    {
+      "id": 6,
+      "nama_barang": "Lakban Bening 45mm x 90 yard (Bodhi Tape)",
+      "kategori": "Alat tulis kantor",
+      "stock": "25",
+      "harga_perolehan": "3400"
+    },
+    {
+      "id": 7,
+      "nama_barang": " Gel Pen / Pulpen / Pena Joyko JK-100 / 0.5 mm / 1 BOX 12 PCS - Hitam",
+      "kategori": "Alat tulis kantor",
+      "stock": "30",
+      "harga_perolehan": "12500"
+    },
+    {
+      "id": 8,
+      "nama_barang": "Kertas Sticker HVS A4 isi 50 Lembar / Stiker Doff A4",
+      "kategori": "Alat tulis kantor",
+      "stock": "600",
+      "harga_perolehan": "21300"
+    },
+    {
+      "id": 9,
+      "nama_barang": "Mesin Tik Elektrik Brother GX-6750 Mesin Ketik Brother GX-6750 Maknyus",
+      "kategori": "Elektronik",
+      "stock": "1544",
+      "harga_perolehan": "975000"
+    },
+    {
+      "id": 10,
+      "nama_barang": "Ball Pen Pulpen Pena Joyko BP-273 Zeto 0.7 mm 1 Box 12 Pcs",
+      "kategori": "Alat tulis kantor",
+      "stock": "150",
+      "harga_perolehan": "5210"
+    }
+  ]
+}
